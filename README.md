@@ -1,10 +1,5 @@
 <h1 align="center">Hi 👋, I'm BerunBiH</h1>
 <h3 align="center">A Software Engineering Student from Bosnia</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=berunbih&label=Profile%20views&color=0e75b6&style=flat" alt="berunbih" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=berunbih" alt="berunbih" /></a> </p>
-
 - 🔭 I’m currently working on **a hangman game for mobile devices**
 
 - 🌱 I’m currently learning **a lot for my studies so I hope I can expand my resume**
