@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **a hangman game for mobile devices**
 
-- 🔭 I made a fun little encoder/decoder program, check it out : https://github.com/BerunBiH/Zimmerman-Code-Decriptor
+- 🔭 I made a fun little encrypter/decrypter program, check it out : [https://github.com/BerunBiH/Zimmerman-Code-Decrypter](https://github.com/BerunBiH/Zimmerman-Code-Decrypter)
 
 - 🌱 I’m currently learning **a lot for my studies so I hope I can expand my resume**
 
